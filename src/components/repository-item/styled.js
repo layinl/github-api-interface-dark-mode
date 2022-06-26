@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-  padding: 8px;
+  padding: 12px;
   border-radius: 8px;
-  border: 1px solid #ccc;
   margin: 16px 16px;
   width: 350px;
   height: 150px;
   align-content: center;
+  background-color: #4f4f4f;
 `;
 
 export const WrapperTitle = styled.h2`

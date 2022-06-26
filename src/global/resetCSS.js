@@ -39,6 +39,8 @@ html {
 body {
   margin: 0;
   font-family: roboto,sans-serif;
+  background-color: #212121;
+  color: whitesmoke;
 }
 
 /**
@@ -142,7 +144,7 @@ address {
 a {
   background-color: transparent;
   text-decoration: none;
-  color: inherit;
+  color: #7f9fff !important;
 }
 
 /**
